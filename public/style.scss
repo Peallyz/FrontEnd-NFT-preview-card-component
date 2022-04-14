@@ -110,6 +110,7 @@ body {
     font-weight: 300;
     color: $cl_txt;
     display: flex;
+    margin-bottom: 5px;
     & img {
       height: 30px;
       border: 1px solid $white;
@@ -117,6 +118,7 @@ body {
       margin-right: 10px;
     }
     & p {
+      margin: 5px;
       & strong {
         color: $white;
         font-weight: 400;

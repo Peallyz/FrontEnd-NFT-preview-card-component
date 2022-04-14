@@ -99,12 +99,16 @@ body {
   font-weight: 300;
   color: hsl(215deg, 51%, 70%);
   display: flex;
+  margin-bottom: 5px;
 }
 .card .create img {
   height: 30px;
   border: 1px solid hsl(0deg, 0%, 100%);
   border-radius: 50%;
   margin-right: 10px;
+}
+.card .create p {
+  margin: 5px;
 }
 .card .create p strong {
   color: hsl(0deg, 0%, 100%);
